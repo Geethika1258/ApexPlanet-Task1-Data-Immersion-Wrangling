@@ -12,16 +12,16 @@ Identified missing values in the Age column.
 Validated Total_Sales using Quantity × Unit_Price.
 Verified age range and data consistency.
 Data Cleaning
-Handled missing values in Age column.
+Handled missing values in the Age column.
 Checked for duplicate records.
 Ensured data consistency across variables.
 Feature Engineering
-Created Age_Group column:
+Age_Group
 Young Adult (18–25)
 Adult (26–40)
 Middle Age (41–55)
 Senior (56–65)
-Created Sales_Category column:
+Sales_Category
 Low
 Medium
 High
@@ -29,10 +29,9 @@ Deliverables
 Data Dictionary
 Data Quality Assessment Report
 Cleaned Dataset
-\\Tools Used\\
+Tools Used
 Microsoft Excel
 GitHub
-
 Author
 
 Geethika Kurumoji
